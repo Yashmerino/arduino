@@ -4,4 +4,4 @@
   
   
   # What is this repository?
-  <p>This repository was made with one purpose. To share with you my Arduino programming and engineering skills. Every project here has its own instructions and detailed explanations how to repeat it too!</p>
+  <p>This repository was made with one purpose, to share with you my Arduino programming and engineering skills. Every project here has its own instructions and detailed explanations how to do them too!</p>
