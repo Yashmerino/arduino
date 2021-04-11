@@ -1,6 +1,6 @@
   # How to repeat?
   
- To repeat this project too, you have to have:
+ To do this project too, you have to have:
 * Arduino UNO R3
 * Breadboard
 * USB Cable
