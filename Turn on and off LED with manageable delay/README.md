@@ -4,7 +4,7 @@
 * Arduino UNO R3
 * Breadboard
 * USB Cable
-* 4 Grove cables
+* 4 Jumper wires (Male-Male)
 * 1 LED
 * 1 Resistor 330 Ω
 * 1 Potentiometer analog 10K Ω
