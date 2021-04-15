@@ -6,14 +6,17 @@ int sensorValue = 0; //Sensor's read value
 
 void setup() 
 {
+ 
  for(int i=0; i<pins; i++) //Setting the LEDs' pins mode for output
  {
   pinMode(pinsLEDs[i], OUTPUT);
  }
+ 
 }
 
 void loop() 
 {
+ 
   sensorValue = analogRead(sensorPin); //Reading the sensor's rotation
   oneLED = map(sensorValue, 0, 1023, 0, pins); //Setting how much of the rotation will be one LED
 
