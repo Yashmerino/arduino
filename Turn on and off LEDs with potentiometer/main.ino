@@ -8,9 +8,7 @@ void setup()
 {
  
  for(int i=0; i<pins; i++) //Setting the LEDs' pins mode for output
- {
-  pinMode(pinsLEDs[i], OUTPUT);
- }
+   pinMode(pinsLEDs[i], OUTPUT);
  
 }
 
